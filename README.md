@@ -1,3 +1,3 @@
 # testrepo
 ### Created from github
-### Update: branch_a
+### Update: master and branch_a
